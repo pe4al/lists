@@ -1,3 +1,4 @@
 0.0.0.0 trk.mail.ru
 0.0.0.0 eye.targetads.io
 0.0.0.0 vast.ufouxbwn.com
+0.0.0.0 storage.mds.yandex.net
