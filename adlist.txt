@@ -3,3 +3,11 @@
 0.0.0.0 vast.ufouxbwn.com
 0.0.0.0 storage.mds.yandex.net
 0.0.0.0 avr.i-trailer.ru
+0.0.0.0 media-adv.market.yandex.ru
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 market-baobab.yandex.ru
+0.0.0.0 market.baobab.yandex.ru
+0.0.0.0 push.yandex.ru
+0.0.0.0 yastatic.net
+0.0.0.0 api.messenger.yandex.ru
+0.0.0.0 adfstat.yandex.ru
